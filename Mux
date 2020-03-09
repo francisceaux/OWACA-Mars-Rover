@@ -1,0 +1,3 @@
+module testbench();
+//put code here
+endmodule //Close the testbench module
